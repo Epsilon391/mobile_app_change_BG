@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Random Number Generator</string>
+    <string name="generate_new_color">Generate New Color!</string>
+</resources>
